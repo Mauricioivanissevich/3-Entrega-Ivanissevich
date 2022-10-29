@@ -449,10 +449,12 @@ h3:hover:after {
   .mainclientes h4 {
     text-align: center;
     font-family: montserrat;
-    color: #fb0004; }
+    color: #fb0004;
+    font-size: 30px; }
   .mainclientes p {
     text-align: center;
-    font-family: montserrat; }
+    font-family: montserrat;
+    font-size: 20px; }
 
 .recursos {
   width: 100%;
